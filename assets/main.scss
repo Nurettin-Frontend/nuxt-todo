@@ -1,0 +1,21 @@
+@import "./color.scss";
+@import "./fonts.scss";
+
+*{
+    box-sizing: border-box;
+}
+.w-100 {
+  width: 100%;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.text-line{
+    text-decoration-line: line-through;
+}
+
+.transition-3{
+    transition: 0.3s;
+}
